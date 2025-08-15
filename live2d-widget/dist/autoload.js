@@ -5,7 +5,7 @@
 
 // Recommended to use absolute path for live2d_path parameter
 // live2d_path 参数建议使用绝对路径
-const live2d_path = '/live2d-widget/';
+const live2d_path = '/live2d-widget/dist/';
 // const live2d_path = '/dist/';
 
 // Method to encapsulate asynchronous resource loading
@@ -57,10 +57,10 @@ function loadExternalResource(url, type) {
   initWidget({
     waifuPath: live2d_path + 'waifu-tips.json',
     // cdnPath: 'https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/',
-    cdnPath: 'https://npm.elemecdn.com/akilar-live2dapi@latest/',
+    // cdnPath: 'https://npm.elemecdn.com/akilar-live2dapi@latest/',
     cubism2Path: live2d_path + 'live2d.min.js',
     cubism5Path: 'https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js',
-    tools: ['hitokoto','asteroids', 'switch-model', 'switch-texture', 'photo', 'info', 'quit'],
+    tools: ['switch-model', 'switch-texture', 'quit'],
     logLevel: 'warn',
     drag: true,
   });

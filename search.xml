@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>不定积分公式</title>
+      <link href="/posts/84877597.html"/>
+      <url>/posts/84877597.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="不定积分"><a href="#不定积分" class="headerlink" title="不定积分"></a>不定积分</h1><h2 id="一、不定积分的性质"><a href="#一、不定积分的性质" class="headerlink" title="一、不定积分的性质"></a>一、不定积分的性质</h2><ol><li><p>$(\int f(x)dx)’ = f(x),$   $d\int f(x)dx = f(x)dx$ </p></li><li><p>$\int f’(x)dx = f(x) + C,$ $d\int f(x) = f(x) + C$ </p></li><li><p>$\int [f(x) \pm g(x)]dx = \int f(x)dx \pm \int g(x)dx$ </p></li><li><p>$\int kf(x)dx = k\int f(x)dx$（$k$为常数 ）</p></li></ol><h2 id="二、不定积分基本公式"><a href="#二、不定积分基本公式" class="headerlink" title="二、不定积分基本公式"></a>二、不定积分基本公式</h2><ol><li>$\int 0dx = C$ </li><li>$\int x^{\alpha}dx = \frac{1}{\alpha + 1}x^{\alpha + 1} + C$（$\alpha \neq -1$） </li><li>$\int \frac{1}{x}dx = \ln|x| + C$ </li><li>$\int a^x dx = \frac{a^x}{\ln a} + C$（$a &gt; 0, a \neq 1$）</li><li>$\int e^x dx = e^x + C$ </li><li>$\int \sin x dx = -\cos x + C$ </li><li>$\int \cos x dx = \sin x + C$ </li><li>$\int \sec^2 x dx = \tan x + C$ </li><li>$\int \csc^2 x dx = -\cot x + C$ </li><li>$\int \sec x \tan x dx = \sec x + C$ </li><li>$\int \csc x \cot x dx = -\csc x + C$ </li><li>$\int \frac{1}{\sqrt{1 - x^2}}dx = \arcsin x + C$ </li><li>$\int \frac{1}{1 + x^2}dx = \arctan x + C$ </li><li>$\int \frac{dx}{\sqrt{a^2 - x^2}} = \arcsin \frac{x}{a} + C$（$a &gt; 0$）</li><li>$\int \frac{dx}{a^2 + x^2} = \frac{1}{a}\arctan \frac{x}{a} + C$（$a \neq 0$）</li><li>$\int \frac{dx}{x^2 - a^2} = \frac{1}{2a}\ln \left|\frac{x - a}{x + a}\right| + C$（$a \neq 0$）</li><li>$\int \frac{dx}{\sqrt{x^2 + a^2}} = \ln(x + \sqrt{x^2 + a^2}) + C$（$a &gt; 0$）</li><li>$\int \frac{dx}{\sqrt{x^2 - a^2}} = \ln|x + \sqrt{x^2 - a^2}| + C$（$a &gt; 0$）</li><li>$\int \sec x dx = \ln|\sec x + \tan x| + C$ </li><li>$\int \csc x dx = -\ln|\csc x + \cot x| + C$ </li><li>$(\int \frac{dt}{1 - t^2} = \frac{1}{2}\ln\left|\frac{1 + t}{1 - t}\right| + C)$ </li><li>$(\int \frac{dt}{t^2 - 1} = \frac{1}{2}\ln\left|\frac{t - 1}{t + 1}\right| + C)$ </li></ol><h2 id="三、三种主要积分法-进行积分时要注意-dx"><a href="#三、三种主要积分法-进行积分时要注意-dx" class="headerlink" title="三、三种主要积分法(进行积分时要注意$dx$)"></a>三、三种主要积分法(进行积分时要注意$dx$)</h2><h5 id="第一类换元法-凑微分法"><a href="#第一类换元法-凑微分法" class="headerlink" title="第一类换元法(凑微分法)"></a>第一类换元法(凑微分法)</h5><p><strong>定理：</strong>设$\int f(u)du = F(u) + C$，$u = \varphi(x)$存在连续导数，则</p><p>$<br>\int f[\varphi(x)]\varphi’(x)dx = \int f[\varphi(x)]d\varphi(x) = F[\varphi(x)] + C<br> $ </p><h5 id="第二类换元法（去根号）"><a href="#第二类换元法（去根号）" class="headerlink" title="第二类换元法（去根号）"></a>第二类换元法（去根号）</h5><p><strong>定理</strong>：设 $  x = \varphi(t)  $ 是单调的、可导的函数，并且 $  \varphi’(t) \neq 0  $。又</p><p>$  \int f[\varphi(t)]\varphi’(t)dt = F(t) + C  $</p><p>则$\begin{align<em>}\int f(x)dx&amp;=\int f[\varphi(t)]\varphi’(t)dt = F(t) + C \&amp;= F[\varphi^{-1}(x)] + C\end{align</em>}$ </p><p>其中 $  \varphi^{-1}(x)  $ 是 $  x = \varphi(t)  $ 的反函数。</p><ul><li>当$\sqrt{x是一次}$ ，则令$\sqrt{…}=t$，解得$x=x(t)$,则$x=x’d(t)$</li><li><p>当$\sqrt{x是二次}$ 时，则使用三角换元，使用辅助三角形得到最后的结果。</p><ul><li>被积函数含有 $  \sqrt{a^2 - x^2}  $，令 $  x = a\sin t  $（或 $  a\cos t  $）。</li><li>被积函数含有 $  \sqrt{a^2 + x^2}  $，令 $  x = a\tan t  $。</li><li>被积函数含有 $  \sqrt{x^2 - a^2}  $，令 $  x = a\sec t  $</li></ul></li><li><p>不带有$\sqrt{…}$，并且含有复杂部分，令复杂部分为t</p><ul><li><p>例：$\int \frac{x + 1}{x(1 + x e^x)}dx$，这里$xe^x$就是复杂部分，令$xe^x=t$，则$dt=e^x(1+x)$，</p><p>​    原式$=\int\frac{(x+1)e^x}{xe^x(1+xe^x)}dx$ </p><p>​        $=\int\frac{dt}{t(1+t)}$  </p><p>​        $=\int(\frac{1}{t}-\frac{1}{1+t})dt$ </p><p>​        $=ln\lvert \frac{t}{1+t}\rvert +C$ </p><p>​        $=ln\lvert\frac{x e^x}{1+x e^x}\rvert+C$  </p></li></ul></li></ul><h5 id="分部积分法"><a href="#分部积分法" class="headerlink" title="分部积分法"></a>分部积分法</h5>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>

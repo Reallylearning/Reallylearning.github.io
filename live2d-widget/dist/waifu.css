@@ -27,17 +27,19 @@
 }
 
 #waifu {
-	bottom: -500px;
-	left: 0;
-	position: fixed;
-	transform: translateY(25px);
-	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
-	z-index: 1;
+  bottom: -300px; /* 初始位置在屏幕底部之外（值随尺寸调整） */
+  right: 0; /* 从左侧改为右侧 */
+  left: auto; /* 清除左侧定位 */
+  position: fixed;
+  transform: translateY(15px); /* 缩小位移量 */
+  transition: transform .3s ease-in-out, bottom 3s ease-in-out;
+  z-index: 1;
 }
 
 #waifu.waifu-active {
-	bottom: 0;
+  bottom: 0; /* 激活状态时显示在屏幕底部右侧 */
 }
+
 
 #waifu.waifu-hidden {
 	display: none;
@@ -77,11 +79,12 @@
 }
 
 #live2d {
-	cursor: grab;
-	height: 300px;
-	position: relative;
-	width: 300px;
+  cursor: grab;
+  height: 150px; /* 从200px缩小到150px */
+  position: relative;
+  width: 150px; /* 从200px缩小到150px */
 }
+
 
 #live2d:active {
 	cursor: grabbing;
