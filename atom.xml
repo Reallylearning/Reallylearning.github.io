@@ -6,7 +6,7 @@
   <link href="https://reallylearning.icu/atom.xml" rel="self"/>
   
   <link href="https://reallylearning.icu/"/>
-  <updated>2025-08-15T05:00:30.843Z</updated>
+  <updated>2025-08-15T07:21:41.527Z</updated>
   <id>https://reallylearning.icu/</id>
   
   <author>
@@ -17,11 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://reallylearning.icu/posts/0.html"/>
+    <id>https://reallylearning.icu/posts/0.html</id>
+    <published>2025-08-15T06:11:10.155Z</published>
+    <updated>2025-08-15T07:21:41.527Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>三角函数</title>
+    <link href="https://reallylearning.icu/posts/5640f8b3.html"/>
+    <id>https://reallylearning.icu/posts/5640f8b3.html</id>
+    <published>2025-08-09T11:51:26.000Z</published>
+    <updated>2025-08-20T02:26:25.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="高数" scheme="https://reallylearning.icu/categories/%E9%AB%98%E6%95%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>求导公式</title>
+    <link href="https://reallylearning.icu/posts/e6fd7268.html"/>
+    <id>https://reallylearning.icu/posts/e6fd7268.html</id>
+    <published>2025-08-09T11:51:26.000Z</published>
+    <updated>2025-08-20T02:26:20.106Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;导数公式与求导法则总结&quot;&gt;&lt;a href=&quot;#导数公式与求导法则总结&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="高数" scheme="https://reallylearning.icu/categories/%E9%AB%98%E6%95%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>不定积分公式</title>
     <link href="https://reallylearning.icu/posts/84877597.html"/>
     <id>https://reallylearning.icu/posts/84877597.html</id>
     <published>2025-08-09T11:51:26.000Z</published>
-    <updated>2025-08-15T05:00:30.843Z</updated>
+    <updated>2025-08-18T02:49:24.042Z</updated>
     
     
       
@@ -33,6 +92,8 @@
       
     
     
+    
+    <category term="高数" scheme="https://reallylearning.icu/categories/%E9%AB%98%E6%95%B0/"/>
     
     
   </entry>
