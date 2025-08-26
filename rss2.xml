@@ -15,11 +15,11 @@
     <atom:link href="https://reallylearning.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我的学习记录</description>
-    <pubDate>Mon, 25 Aug 2025 06:53:48 GMT</pubDate>
+    <pubDate>Tue, 26 Aug 2025 05:31:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>第一章-极限</title>
+      <title>第一章-函数、极限、连续</title>
       <link>https://reallylearning.icu/posts/421171be.html</link>
       <guid>https://reallylearning.icu/posts/421171be.html</guid>
       <pubDate>Mon, 25 Aug 2025 01:43:42 GMT</pubDate>
@@ -28,7 +28,7 @@
         
           
           
-      <description>&lt;h1 id=&quot;极限&quot;&gt;&lt;a href=&quot;#极限&quot; class=&quot;headerlink&quot; title=&quot;极限&quot;&gt;&lt;/a&gt;极限&lt;/h1&gt;&lt;h2 id=&quot;数列的极限&quot;&gt;&lt;a href=&quot;#数列的极限&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;h1 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot; title=&quot;函数&quot;&gt;&lt;/a&gt;函数&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：设 $  x  $ 和 $  y  $ 是两个变量，$  D  $</description>
           
         
       
@@ -44,29 +44,6 @@
       
       
       <comments>https://reallylearning.icu/posts/421171be.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>testImg</title>
-      <link>https://reallylearning.icu/posts/fb934f25.html</link>
-      <guid>https://reallylearning.icu/posts/fb934f25.html</guid>
-      <pubDate>Thu, 21 Aug 2025 10:11:43 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src=&quot;https://reallylearning.icu/imgs/Prim%E7%AE%97%E6%B3%95%E5%9B%BE%E4%BA%8C-1755773884538-2.png&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://reallylearning.icu/posts/fb934f25.html#disqus_thread</comments>
       
     </item>
     
@@ -179,29 +156,6 @@
       
       
       <comments>https://reallylearning.icu/posts/84877597.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://reallylearning.icu/posts/4a17b156.html</link>
-      <guid>https://reallylearning.icu/posts/4a17b156.html</guid>
-      <pubDate>Wed, 06 Aug 2025 08:07:40 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://reallylearning.icu/posts/4a17b156.html#disqus_thread</comments>
       
     </item>
     

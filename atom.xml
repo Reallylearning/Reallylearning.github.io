@@ -6,7 +6,7 @@
   <link href="https://reallylearning.icu/atom.xml" rel="self"/>
   
   <link href="https://reallylearning.icu/"/>
-  <updated>2025-08-25T06:53:48.852Z</updated>
+  <updated>2025-08-26T05:31:40.838Z</updated>
   <id>https://reallylearning.icu/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一章-极限</title>
+    <title>第一章-函数、极限、连续</title>
     <link href="https://reallylearning.icu/posts/421171be.html"/>
     <id>https://reallylearning.icu/posts/421171be.html</id>
     <published>2025-08-25T01:43:42.000Z</published>
-    <updated>2025-08-25T06:53:48.852Z</updated>
+    <updated>2025-08-26T05:31:40.838Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;极限&quot;&gt;&lt;a href=&quot;#极限&quot; class=&quot;headerlink&quot; title=&quot;极限&quot;&gt;&lt;/a&gt;极限&lt;/h1&gt;&lt;h2 id=&quot;数列的极限&quot;&gt;&lt;a href=&quot;#数列的极限&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot; title=&quot;函数&quot;&gt;&lt;/a&gt;函数&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：设 $  x  $ 和 $  y  $ 是两个变量，$  D  $</summary>
         
       
     
@@ -40,27 +40,6 @@
     
     
     <category term="高等数学" scheme="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>testImg</title>
-    <link href="https://reallylearning.icu/posts/fb934f25.html"/>
-    <id>https://reallylearning.icu/posts/fb934f25.html</id>
-    <published>2025-08-21T10:11:43.000Z</published>
-    <updated>2025-08-25T06:52:38.142Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://reallylearning.icu/imgs/Prim%E7%AE%97%E6%B3%95%E5%9B%BE%E4%BA%8C-1755773884538-2.png&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
@@ -165,27 +144,6 @@
     
     
     <category term="高等数学" scheme="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://reallylearning.icu/posts/4a17b156.html"/>
-    <id>https://reallylearning.icu/posts/4a17b156.html</id>
-    <published>2025-08-06T08:07:40.102Z</published>
-    <updated>2025-08-13T11:43:35.546Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
