@@ -6,7 +6,7 @@
   <link href="https://reallylearning.icu/atom.xml" rel="self"/>
   
   <link href="https://reallylearning.icu/"/>
-  <updated>2025-08-26T05:31:40.838Z</updated>
+  <updated>2025-08-31T03:04:43.876Z</updated>
   <id>https://reallylearning.icu/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>求极限</title>
+    <link href="https://reallylearning.icu/posts/a78138a5.html"/>
+    <id>https://reallylearning.icu/posts/a78138a5.html</id>
+    <published>2025-08-30T01:14:31.000Z</published>
+    <updated>2025-08-31T03:04:43.876Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;求极限&quot;&gt;&lt;a href=&quot;#求极限&quot; class=&quot;headerlink&quot; title=&quot;求极限&quot;&gt;&lt;/a&gt;求极限&lt;/h1&gt;&lt;h2 id=&quot;常见的基本极限&quot;&gt;&lt;a href=&quot;#常见的基本极限&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="考研数学" scheme="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="高数" scheme="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/"/>
+    
+    
+    <category term="高等数学" scheme="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第一章-函数、极限、连续</title>
     <link href="https://reallylearning.icu/posts/421171be.html"/>
     <id>https://reallylearning.icu/posts/421171be.html</id>
     <published>2025-08-25T01:43:42.000Z</published>
-    <updated>2025-08-26T05:31:40.838Z</updated>
+    <updated>2025-08-31T02:34:45.186Z</updated>
     
     
       
@@ -67,18 +94,18 @@
   </entry>
   
   <entry>
-    <title>三角函数</title>
-    <link href="https://reallylearning.icu/posts/5640f8b3.html"/>
-    <id>https://reallylearning.icu/posts/5640f8b3.html</id>
+    <title>求导公式</title>
+    <link href="https://reallylearning.icu/posts/e6fd7268.html"/>
+    <id>https://reallylearning.icu/posts/e6fd7268.html</id>
     <published>2025-08-09T11:51:26.000Z</published>
-    <updated>2025-08-25T01:49:33.782Z</updated>
+    <updated>2025-08-25T01:49:37.824Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;导数公式与求导法则总结&quot;&gt;&lt;a href=&quot;#导数公式与求导法则总结&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -94,18 +121,18 @@
   </entry>
   
   <entry>
-    <title>求导公式</title>
-    <link href="https://reallylearning.icu/posts/e6fd7268.html"/>
-    <id>https://reallylearning.icu/posts/e6fd7268.html</id>
+    <title>三角函数</title>
+    <link href="https://reallylearning.icu/posts/5640f8b3.html"/>
+    <id>https://reallylearning.icu/posts/5640f8b3.html</id>
     <published>2025-08-09T11:51:26.000Z</published>
-    <updated>2025-08-25T01:49:37.824Z</updated>
+    <updated>2025-08-25T01:49:33.782Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;导数公式与求导法则总结&quot;&gt;&lt;a href=&quot;#导数公式与求导法则总结&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</summary>
         
       
     

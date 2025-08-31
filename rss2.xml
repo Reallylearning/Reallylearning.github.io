@@ -15,8 +15,37 @@
     <atom:link href="https://reallylearning.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我的学习记录</description>
-    <pubDate>Tue, 26 Aug 2025 05:31:40 GMT</pubDate>
+    <pubDate>Sun, 31 Aug 2025 03:04:43 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>求极限</title>
+      <link>https://reallylearning.icu/posts/a78138a5.html</link>
+      <guid>https://reallylearning.icu/posts/a78138a5.html</guid>
+      <pubDate>Sat, 30 Aug 2025 01:14:31 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;求极限&quot;&gt;&lt;a href=&quot;#求极限&quot; class=&quot;headerlink&quot; title=&quot;求极限&quot;&gt;&lt;/a&gt;求极限&lt;/h1&gt;&lt;h2 id=&quot;常见的基本极限&quot;&gt;&lt;a href=&quot;#常见的基本极限&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
+      
+      
+      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
+      
+      
+      <comments>https://reallylearning.icu/posts/a78138a5.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>第一章-函数、极限、连续</title>
@@ -73,35 +102,6 @@
     </item>
     
     <item>
-      <title>三角函数</title>
-      <link>https://reallylearning.icu/posts/5640f8b3.html</link>
-      <guid>https://reallylearning.icu/posts/5640f8b3.html</guid>
-      <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
-      
-      
-      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
-      
-      
-      <comments>https://reallylearning.icu/posts/5640f8b3.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>求导公式</title>
       <link>https://reallylearning.icu/posts/e6fd7268.html</link>
       <guid>https://reallylearning.icu/posts/e6fd7268.html</guid>
@@ -127,6 +127,35 @@
       
       
       <comments>https://reallylearning.icu/posts/e6fd7268.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>三角函数</title>
+      <link>https://reallylearning.icu/posts/5640f8b3.html</link>
+      <guid>https://reallylearning.icu/posts/5640f8b3.html</guid>
+      <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
+      
+      
+      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
+      
+      
+      <comments>https://reallylearning.icu/posts/5640f8b3.html#disqus_thread</comments>
       
     </item>
     
