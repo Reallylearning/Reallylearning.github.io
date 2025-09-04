@@ -15,20 +15,52 @@
     <atom:link href="https://reallylearning.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我的学习记录</description>
-    <pubDate>Sun, 31 Aug 2025 03:04:43 GMT</pubDate>
+    <pubDate>Thu, 04 Sep 2025 02:44:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>求极限</title>
-      <link>https://reallylearning.icu/posts/a78138a5.html</link>
-      <guid>https://reallylearning.icu/posts/a78138a5.html</guid>
-      <pubDate>Sat, 30 Aug 2025 01:14:31 GMT</pubDate>
+      <title>解决hexo无法显示图床图片问题</title>
+      <link>https://reallylearning.icu/posts/24f770ca.html</link>
+      <guid>https://reallylearning.icu/posts/24f770ca.html</guid>
+      <pubDate>Thu, 04 Sep 2025 02:39:21 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;h1 id=&quot;求极限&quot;&gt;&lt;a href=&quot;#求极限&quot; class=&quot;headerlink&quot; title=&quot;求极限&quot;&gt;&lt;/a&gt;求极限&lt;/h1&gt;&lt;h2 id=&quot;常见的基本极限&quot;&gt;&lt;a href=&quot;#常见的基本极限&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;p&gt;hexo引入图片的方式有很多种：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从本地文件加载。&lt;/li&gt;
+&lt;li&gt;使用图床，markdown中直接引用图床的链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;1-问题描述&quot;&gt;&lt;a href=&quot;#1-问题描述&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://reallylearning.icu/categories/hexo%E5%8D%9A%E5%AE%A2/">hexo博客</category>
+      
+      
+      <category domain="https://reallylearning.icu/tags/hexo/">hexo</category>
+      
+      
+      <comments>https://reallylearning.icu/posts/24f770ca.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>第一章-函数</title>
+      <link>https://reallylearning.icu/posts/8f0f9903.html</link>
+      <guid>https://reallylearning.icu/posts/8f0f9903.html</guid>
+      <pubDate>Sun, 31 Aug 2025 06:21:53 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot; title=&quot;函数&quot;&gt;&lt;/a&gt;函数&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：设 $  x  $ 和 $  y  $ 是两个变量，$  D  $</description>
           
         
       
@@ -43,12 +75,41 @@
       <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
       
       
-      <comments>https://reallylearning.icu/posts/a78138a5.html#disqus_thread</comments>
+      <comments>https://reallylearning.icu/posts/8f0f9903.html#disqus_thread</comments>
       
     </item>
     
     <item>
-      <title>第一章-函数、极限、连续</title>
+      <title>第三章-导数与微分</title>
+      <link>https://reallylearning.icu/posts/8b70fbff.html</link>
+      <guid>https://reallylearning.icu/posts/8b70fbff.html</guid>
+      <pubDate>Sun, 31 Aug 2025 03:13:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;导数&quot;&gt;&lt;a href=&quot;#导数&quot; class=&quot;headerlink&quot; title=&quot;导数&quot;&gt;&lt;/a&gt;导数&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：设函数$y =</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
+      
+      
+      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
+      
+      
+      <comments>https://reallylearning.icu/posts/8b70fbff.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>第二章-极限、连续</title>
       <link>https://reallylearning.icu/posts/421171be.html</link>
       <guid>https://reallylearning.icu/posts/421171be.html</guid>
       <pubDate>Mon, 25 Aug 2025 01:43:42 GMT</pubDate>
@@ -57,7 +118,7 @@
         
           
           
-      <description>&lt;h1 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot; title=&quot;函数&quot;&gt;&lt;/a&gt;函数&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：设 $  x  $ 和 $  y  $ 是两个变量，$  D  $</description>
+      <description>&lt;h1 id=&quot;极限&quot;&gt;&lt;a href=&quot;#极限&quot; class=&quot;headerlink&quot; title=&quot;极限&quot;&gt;&lt;/a&gt;极限&lt;/h1&gt;&lt;h2 id=&quot;数列的极限&quot;&gt;&lt;a href=&quot;#数列的极限&quot; class=&quot;headerlink&quot;</description>
           
         
       
@@ -131,36 +192,7 @@
     </item>
     
     <item>
-      <title>三角函数</title>
-      <link>https://reallylearning.icu/posts/5640f8b3.html</link>
-      <guid>https://reallylearning.icu/posts/5640f8b3.html</guid>
-      <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot;&gt;&lt;a href=&quot;#《三角函数的基本关系与诱导公式、两角和与差、二倍角及半角关系》&quot; class=&quot;headerlink&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
-      
-      
-      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
-      
-      
-      <comments>https://reallylearning.icu/posts/5640f8b3.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>不定积分</title>
+      <title>第四章-不定积分</title>
       <link>https://reallylearning.icu/posts/84877597.html</link>
       <guid>https://reallylearning.icu/posts/84877597.html</guid>
       <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
