@@ -15,8 +15,37 @@
     <atom:link href="https://reallylearning.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我的学习记录</description>
-    <pubDate>Thu, 04 Sep 2025 02:44:37 GMT</pubDate>
+    <pubDate>Fri, 05 Sep 2025 04:17:20 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>第四章-微分中值定理及导数应用</title>
+      <link>https://reallylearning.icu/posts/4f047b7c.html</link>
+      <guid>https://reallylearning.icu/posts/4f047b7c.html</guid>
+      <pubDate>Fri, 05 Sep 2025 03:15:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;微分中值定理与导数应用&quot;&gt;&lt;a href=&quot;#微分中值定理与导数应用&quot; class=&quot;headerlink&quot; title=&quot;微分中值定理与导数应用&quot;&gt;&lt;/a&gt;微分中值定理与导数应用&lt;/h1&gt;&lt;h3 id=&quot;微分中值定理&quot;&gt;&lt;a href=&quot;#微分中值定理&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
+      
+      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
+      
+      
+      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
+      
+      
+      <comments>https://reallylearning.icu/posts/4f047b7c.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>解决hexo无法显示图床图片问题</title>
@@ -163,36 +192,7 @@
     </item>
     
     <item>
-      <title>求导公式</title>
-      <link>https://reallylearning.icu/posts/e6fd7268.html</link>
-      <guid>https://reallylearning.icu/posts/e6fd7268.html</guid>
-      <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;导数公式与求导法则总结&quot;&gt;&lt;a href=&quot;#导数公式与求导法则总结&quot; class=&quot;headerlink&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/">考研数学</category>
-      
-      <category domain="https://reallylearning.icu/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/%E9%AB%98%E6%95%B0/">高数</category>
-      
-      
-      <category domain="https://reallylearning.icu/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/">高等数学</category>
-      
-      
-      <comments>https://reallylearning.icu/posts/e6fd7268.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>第四章-不定积分</title>
+      <title>第五章-不定积分</title>
       <link>https://reallylearning.icu/posts/84877597.html</link>
       <guid>https://reallylearning.icu/posts/84877597.html</guid>
       <pubDate>Sat, 09 Aug 2025 11:51:26 GMT</pubDate>
