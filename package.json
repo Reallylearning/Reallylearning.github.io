@@ -3,6 +3,7 @@
   "description": "记录学习",
   "version": "2.0.0",
   "license": "MIT",
+  "packageManager": "pnpm@10.18.0",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
