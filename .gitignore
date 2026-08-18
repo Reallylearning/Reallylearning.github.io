@@ -1,8 +1,14 @@
 
 node_modules/
+model/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
 src/**/_*.md
+src/**/assets/
+src/**/note/
 src/draft/
-src/posts/model/
+src/posts/english/
+src/posts/.obsidian/
+src/posts/draft/
+
