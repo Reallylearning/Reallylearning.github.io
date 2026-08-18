@@ -8,7 +8,7 @@ set "BUILD_COMMAND=pnpm docs:build"
 set "DIST_FOLDER=src\.vuepress\dist"
 set "USERNAME=Reallylearning"
 set "REPO=Reallylearning.github.io"
-set "DOMAIN=www.reallylearning.icu"
+set "DOMAIN="
 :: --- 配置结束 ---
 
 echo ✅ 开始执行部署脚本...
