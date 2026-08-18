@@ -1,0 +1,10 @@
+{
+  "promptDelete": true,
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "useMarkdownLinks": true
+}

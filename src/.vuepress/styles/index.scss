@@ -1,1 +1,109 @@
-// place your custom styles here
+@import './palette.scss';
+
+// 把尺寸变量全部放在这里（不会触发警告）
+$blockquote-padding: 10px 15px 10px 30px;
+$blockquote-margin: 10px 0;
+$blockquote-radius: 6px;
+$blockquote-line-width: 4px;
+$blockquote-line-radius: 2px;
+$blockquote-line-position: 15px;
+$blockquote-line-offset: 10px;
+
+// 默认 blockquote 样式
+blockquote {
+  border-left: none !important;
+  background-color: $blockquote-bg;
+  padding: $blockquote-padding;
+  color: $blockquote-text-color;
+  border-radius: $blockquote-radius;
+  margin: $blockquote-margin;
+  position: relative;
+
+  & blockquote {
+    padding-right: 0;
+  }
+}
+
+blockquote::before {
+  content: "";
+  position: absolute;
+  top: $blockquote-line-offset;
+  bottom: $blockquote-line-offset;
+  left: $blockquote-line-position;
+  width: $blockquote-line-width;
+  background-color: $blockquote-line-color;
+  border-radius: $blockquote-line-radius;
+}
+
+// ====================== CALLOUT 样式（图标文字完全居中）======================
+:root {
+  --callout-padding: 12px 16px;
+  --callout-radius: 8px;
+  --callout-title-size: 16px;
+  --callout-title-weight: 600;
+  --callout-content-padding: 4px 0 0;
+  --callout-icon-size: 18px;
+
+  --callout-note: 59, 130, 246;
+  --callout-tip: 16, 185, 129;
+  --callout-info: 6, 182, 212;
+  --callout-warning: 245, 158, 11;
+  --callout-danger: 239, 68, 68;
+  --callout-success: 22, 197, 94;
+  --callout-question: 99, 102, 241;
+  --callout-abstract: 6, 182, 212;
+  --callout-example: 139, 92, 246;
+  --callout-quote: 107, 114, 128;
+  --callout-default: 120, 120, 120;
+}
+
+.callout {
+  margin: 0.5rem 0;
+  padding: var(--callout-padding);
+  border-radius: var(--callout-radius);
+  background: rgba(var(--callout-color), 0.08);
+  border-left: 4px solid rgb(var(--callout-color));
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ✅ 图标 + 文字绝对垂直中线对齐 */
+.callout-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: var(--callout-title-size);
+  font-weight: var(--callout-title-weight);
+  color: rgb(var(--callout-color));
+  line-height: 1;
+}
+
+.callout-icon {
+  width: var(--callout-icon-size);
+  height: var(--callout-icon-size);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.callout-content {
+  padding: var(--callout-content-padding);
+  margin-left: 0;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+.callout {
+  --callout-color: var(--callout-default);
+}
+.callout[data-callout="note"] { --callout-color: var(--callout-note); }
+.callout[data-callout="tip"] { --callout-color: var(--callout-tip); }
+.callout[data-callout="info"] { --callout-color: var(--callout-info); }
+.callout[data-callout="warning"] { --callout-color: var(--callout-warning); }
+.callout[data-callout="danger"] { --callout-color: var(--callout-danger); }
+.callout[data-callout="success"] { --callout-color: var(--callout-success); }
+.callout[data-callout="question"] { --callout-color: var(--callout-question); }
+.callout[data-callout="abstract"] { --callout-color: var(--callout-abstract); }
+.callout[data-callout="example"] { --callout-color: var(--callout-example); }
+.callout[data-callout="quote"] { --callout-color: var(--callout-quote); }

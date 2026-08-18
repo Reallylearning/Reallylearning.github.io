@@ -3,25 +3,33 @@
   "description": "记录学习",
   "version": "2.0.0",
   "license": "MIT",
-  "packageManager": "pnpm@10.18.0",
+  "packageManager": "pnpm@11.3.0+sha512.2c403d6594527287672b1f7056343a1f7c3634036a67ffabfcc2b3d7595d843768f8787148d1b57cf7956c90606bbd192857c363af19e96d2d0ec9ec5741d215",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress-vite build src",
-    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
-    "docs:dev": "vuepress-vite dev src",
+    "docs:build": "SET NODE_OPTIONS=--max_old_space_size=4096 && vuepress-vite build src",
+    "docs:clean-dev": "SET NODE_OPTIONS=--max_old_space_size=4096 && vuepress-vite dev src --clean-cache",
+    "docs:dev": "SET NODE_OPTIONS=--max_old_space_size=4096 && vuepress-vite dev src",
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
     "@iconify-json/uil": "^1.2.3",
-    "@vuepress/bundler-vite": "2.0.0-rc.24",
-    "sass-embedded": "^1.89.2",
-    "vue": "^3.5.17",
-    "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-hope": "2.0.0-rc.94"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild"
-    ]
+    "@vuepress/bundler-vite": "2.0.0-rc.30",
+    "@vuepress/plugin-auto-frontmatter": "2.0.0-rc.130",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.130",
+    "@vuepress/plugin-markdown-math": "2.0.0-rc.130",
+    "@vueuse/core": "^14.3.0",
+    "baseline-browser-mapping": "^2.10.32",
+    "katex": "^0.16.47",
+    "markdown-it-obsidian-callouts": "^0.3.4",
+    "markmap-lib": "^0.18.12",
+    "markmap-toolbar": "^0.18.12",
+    "markmap-view": "^0.18.12",
+    "mathjax-full": "^3.2.2",
+    "sass-embedded": "^1.100.0",
+    "vidstack": "^1.15.6",
+    "vue": "^3.5.34",
+    "vuepress": "2.0.0-rc.30",
+    "vuepress-plugin-meting": "0.3.3",
+    "vuepress-theme-hope": "2.0.0-rc.107"
   }
 }

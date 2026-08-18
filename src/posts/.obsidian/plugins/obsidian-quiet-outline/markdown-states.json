@@ -1,0 +1,761 @@
+{
+  "math/高等数学/第八章-多元函数微分学.md": {
+    "scroll": 887.2416829745597,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-6",
+      "item-2-10",
+      "item-2-15",
+      "item-3-19",
+      "item-2-22",
+      "item-2-25",
+      "item-3-28",
+      "item-2-33",
+      "item-3-34",
+      "item-3-39"
+    ]
+  },
+  "math/高等数学/第七章-微分方程.md": {
+    "scroll": 65.294921875,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "math/高等数学/第六章-定积分与反常积分.md": {
+    "scroll": 254.3077368878586,
+    "cursor": {
+      "from": {
+        "line": 244,
+        "ch": 0
+      },
+      "to": {
+        "line": 244,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5",
+      "item-2-7",
+      "item-2-10",
+      "item-2-14",
+      "item-2-20",
+      "item-2-24",
+      "item-4-25",
+      "item-4-29",
+      "item-4-33",
+      "item-4-37",
+      "item-4-41",
+      "item-1-43",
+      "item-2-44",
+      "item-3-46",
+      "item-3-50",
+      "item-2-53"
+    ]
+  },
+  "math/高等数学/第四章-微分中值定理及导数应用.md": {
+    "scroll": 1188.431640625,
+    "cursor": {
+      "from": {
+        "line": 1034,
+        "ch": 0
+      },
+      "to": {
+        "line": 1034,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-6",
+      "item-2-8",
+      "item-3-10"
+    ]
+  },
+  "math/高等数学/第三章-导数与微分.md": {
+    "scroll": 392.4478563151796,
+    "cursor": {
+      "from": {
+        "line": 463,
+        "ch": 0
+      },
+      "to": {
+        "line": 463,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-4",
+      "item-4-6",
+      "item-4-12",
+      "item-5-13"
+    ]
+  },
+  "数据结构/第七章-查找.md": {
+    "scroll": 174.63213376953834,
+    "cursor": {
+      "from": {
+        "line": 684,
+        "ch": 0
+      },
+      "to": {
+        "line": 684,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-3-3",
+      "item-3-7",
+      "item-2-10",
+      "item-3-11",
+      "item-3-18",
+      "item-3-26",
+      "item-2-31",
+      "item-3-32",
+      "item-4-34"
+    ]
+  },
+  "数据结构/第六章-图.md": {
+    "scroll": 29.74609375,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 9
+      },
+      "to": {
+        "line": 14,
+        "ch": 9
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-2",
+      "item-3-5",
+      "item-4-6",
+      "item-4-8",
+      "item-4-10",
+      "item-3-14"
+    ]
+  },
+  "math/线性代数/第二章-矩阵.md": {
+    "scroll": 1285.1949135300101,
+    "cursor": {
+      "from": {
+        "line": 1236,
+        "ch": 0
+      },
+      "to": {
+        "line": 1236,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-3-4",
+      "item-2-7",
+      "item-2-11",
+      "item-2-13",
+      "item-2-15",
+      "item-2-19",
+      "item-2-21",
+      "item-2-23",
+      "item-2-27",
+      "item-3-28",
+      "item-2-34",
+      "item-3-38",
+      "item-2-43",
+      "item-2-47",
+      "item-2-50"
+    ]
+  },
+  "math/线性代数/第一章-行列式.md": {
+    "scroll": 214.55192878338278,
+    "cursor": {
+      "from": {
+        "line": 116,
+        "ch": 0
+      },
+      "to": {
+        "line": 116,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
+  },
+  "math/线性代数/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "math/线性代数/第三章-向量.md": {
+    "scroll": 286.78241563055064,
+    "cursor": {
+      "from": {
+        "line": 341,
+        "ch": 0
+      },
+      "to": {
+        "line": 341,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-3",
+      "item-2-6",
+      "item-2-10",
+      "item-3-11",
+      "item-3-14",
+      "item-3-16",
+      "item-1-19",
+      "item-2-20",
+      "item-2-22"
+    ]
+  },
+  "数据结构/未命名.md": {
+    "scroll": 1614.9041095890411,
+    "cursor": {
+      "from": {
+        "line": 1947,
+        "ch": 3
+      },
+      "to": {
+        "line": 1834,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0",
+      "item-4-2",
+      "item-4-13",
+      "item-3-20",
+      "item-4-21",
+      "item-4-28",
+      "item-3-36",
+      "item-3-40",
+      "item-4-41",
+      "item-4-45",
+      "item-3-48",
+      "item-3-52",
+      "item-4-53",
+      "item-4-57"
+    ]
+  },
+  "math/高等数学/第一章-函数.md": {
+    "scroll": 133.55595026642985,
+    "cursor": {
+      "from": {
+        "line": 163,
+        "ch": 31
+      },
+      "to": {
+        "line": 163,
+        "ch": 31
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-3-7",
+      "item-3-10",
+      "item-3-13",
+      "item-2-22"
+    ]
+  },
+  "math/高等数学/第二章-极限.md": {
+    "scroll": 479.7067257559958,
+    "cursor": {
+      "from": {
+        "line": 498,
+        "ch": 0
+      },
+      "to": {
+        "line": 498,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5",
+      "item-2-9",
+      "item-2-12",
+      "item-2-15",
+      "item-1-24",
+      "item-2-26",
+      "item-2-30",
+      "item-2-36",
+      "item-4-39"
+    ]
+  },
+  "数据结构/第八章-排序.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-2",
+      "item-4-4"
+    ]
+  },
+  "数据结构/未命名 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 116
+      },
+      "to": {
+        "line": 0,
+        "ch": 116
+      }
+    },
+    "expandedKeys": []
+  },
+  "2026-06-07.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "draft/未命名.md": {
+    "scroll": 3180.0266927083335,
+    "cursor": {
+      "from": {
+        "line": 3067,
+        "ch": 0
+      },
+      "to": {
+        "line": 3067,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "操作系统/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "操作系统/计算机系统概述.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 13
+      },
+      "to": {
+        "line": 12,
+        "ch": 13
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-2",
+      "item-3-6",
+      "item-3-11",
+      "item-3-18",
+      "item-3-23",
+      "item-3-27",
+      "item-3-33"
+    ]
+  },
+  "操作系统/【2026考研】《王道操作系统》笔记汇总（超详细合集）/【2026考研】《王道操作系统》笔记汇总（超详细合集）.md": {
+    "scroll": 527.6775665171001,
+    "cursor": {
+      "from": {
+        "line": 531,
+        "ch": 35
+      },
+      "to": {
+        "line": 531,
+        "ch": 35
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-2",
+      "item-3-6",
+      "item-3-11",
+      "item-3-18",
+      "item-3-23",
+      "item-3-27",
+      "item-3-33",
+      "item-2-43",
+      "item-3-44",
+      "item-3-48",
+      "item-3-52",
+      "item-3-56",
+      "item-3-61",
+      "item-3-69",
+      "item-3-73",
+      "item-3-77",
+      "item-3-80",
+      "item-3-86",
+      "item-3-94",
+      "item-3-97",
+      "item-3-102",
+      "item-3-107",
+      "item-3-114",
+      "item-3-121",
+      "item-3-126",
+      "item-2-131",
+      "item-3-132",
+      "item-3-138",
+      "item-3-143",
+      "item-3-147",
+      "item-3-151",
+      "item-3-157",
+      "item-4-158",
+      "item-3-165",
+      "item-4-168",
+      "item-2-177",
+      "item-3-179",
+      "item-4-181",
+      "item-3-185",
+      "item-3-189",
+      "item-4-192",
+      "item-4-195",
+      "item-3-199",
+      "item-4-202",
+      "item-3-207",
+      "item-3-214",
+      "item-3-217",
+      "item-2-225",
+      "item-3-227",
+      "item-3-230",
+      "item-3-236",
+      "item-3-241",
+      "item-3-247",
+      "item-3-253",
+      "item-3-259",
+      "item-3-266",
+      "item-3-270",
+      "item-3-279"
+    ]
+  },
+  "math/高等数学/第五章-不定积分.md": {
+    "scroll": 26.324202496532592,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 84
+      },
+      "to": {
+        "line": 51,
+        "ch": 84
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-2-7",
+      "item-3-8",
+      "item-3-11",
+      "item-4-17",
+      "item-3-20"
+    ]
+  },
+  "math/高等数学/第十章-无穷级数.md": {
+    "scroll": 886.9629629629629,
+    "cursor": {
+      "from": {
+        "line": 108,
+        "ch": 0
+      },
+      "to": {
+        "line": 108,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-4",
+      "item-1-8",
+      "item-2-9",
+      "item-2-11",
+      "item-2-15",
+      "item-3-19",
+      "item-2-22",
+      "item-2-25",
+      "item-1-28",
+      "item-2-30",
+      "item-2-34"
+    ]
+  },
+  "计算机组成原理/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机组成原理/第一章-计算机系统概述.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 104,
+        "ch": 0
+      },
+      "to": {
+        "line": 104,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-2",
+      "item-4-4",
+      "item-2-8",
+      "item-3-9",
+      "item-3-12",
+      "item-3-17",
+      "item-3-21",
+      "item-3-24"
+    ]
+  },
+  "计算机组成原理/note/【2026考研】《王道计算机组成原理》笔记汇总（超详细合集）.md": {
+    "scroll": 22.181640625,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 13
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-1",
+      "item-3-5",
+      "item-4-6",
+      "item-4-10",
+      "item-4-15",
+      "item-4-18",
+      "item-3-21",
+      "item-3-27",
+      "item-4-29",
+      "item-3-36",
+      "item-2-41",
+      "item-3-42",
+      "item-3-45",
+      "item-3-48",
+      "item-3-52",
+      "item-3-55",
+      "item-3-60",
+      "item-2-63",
+      "item-3-64",
+      "item-3-69",
+      "item-3-74",
+      "item-4-76",
+      "item-3-81",
+      "item-4-82",
+      "item-4-86",
+      "item-3-93",
+      "item-4-96",
+      "item-4-99",
+      "item-3-103",
+      "item-3-107",
+      "item-2-110",
+      "item-3-111",
+      "item-3-116",
+      "item-2-121",
+      "item-3-122",
+      "item-3-126",
+      "item-3-132",
+      "item-4-133",
+      "item-3-140"
+    ]
+  },
+  "计算机组成原理/第二章-数据的表示和运算.md": {
+    "scroll": 744.3320187104466,
+    "cursor": {
+      "from": {
+        "line": 756,
+        "ch": 15
+      },
+      "to": {
+        "line": 756,
+        "ch": 15
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-2",
+      "item-3-8",
+      "item-4-10",
+      "item-3-16",
+      "item-3-20",
+      "item-3-25",
+      "item-3-29",
+      "item-3-32",
+      "item-3-38",
+      "item-3-43",
+      "item-3-49",
+      "item-4-54",
+      "item-3-57",
+      "item-3-61"
+    ]
+  },
+  "计算机组成原理/undefined.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机组成原理/().md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "计算机组成原理/第三章-存储系统.md": {
+    "scroll": 390.27767441860465,
+    "cursor": {
+      "from": {
+        "line": 396,
+        "ch": 0
+      },
+      "to": {
+        "line": 396,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-2",
+      "item-4-4",
+      "item-3-11",
+      "item-4-12",
+      "item-4-16",
+      "item-4-21",
+      "item-4-24",
+      "item-3-27",
+      "item-3-33",
+      "item-4-35",
+      "item-4-41",
+      "item-3-47",
+      "item-4-49",
+      "item-4-52",
+      "item-1-55",
+      "item-2-57",
+      "item-2-61",
+      "item-2-68"
+    ]
+  },
+  "操作系统/第一章-计算机系统概述.md": {
+    "scroll": 150.54527131782945,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 13
+      },
+      "to": {
+        "line": 19,
+        "ch": 13
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-2",
+      "item-3-6",
+      "item-3-11",
+      "item-3-18",
+      "item-3-23",
+      "item-3-27",
+      "item-3-33"
+    ]
+  }
+}

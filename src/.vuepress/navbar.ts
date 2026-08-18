@@ -38,5 +38,6 @@ export default navbar([
   { text: "分类", icon: "typcn:th-list", link: "/category/" },
   { text: "归档", icon: "hugeicons:archive-01", link: "/article/" },
   { text: "时间线", icon: "mdi:timeline", link: "/timeline/" },
+  { text: "音乐", icon: "music", link: "/music.html" },
   { text: "关于", icon: "user", link: "/about/" },
 ]);
