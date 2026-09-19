@@ -27,6 +27,7 @@ export default defineUserConfig({
     '!**/assets/**',
     '!**/english/**',            // 3. 所有叫 draft 的整个文件夹 → 不发布
     '!.vuepress',
+    '!**/music.md', 
     '!node_modules'
   ],
 
