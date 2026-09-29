@@ -1,5 +1,5 @@
 import { navbar } from "vuepress-theme-hope";
-import { iconPlugin } from '@vuepress/plugin-icon';
+
 export default navbar([
   // 主页
   {
