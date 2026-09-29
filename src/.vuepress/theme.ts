@@ -4,8 +4,12 @@ import obsidianCallouts from "markdown-it-obsidian-callouts";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+
+// 读取环境变量，本地开发没设置时使用默认占位
+const appId = process.env.DOC_APPID ?? "1111111111";
+
 export default hopeTheme({
-  hostname: "https://reallylearning.icu",
+  hostname: "https://reallylearning.github.io/",
 
   author: {
     name: "reallylearning",
@@ -38,18 +42,14 @@ export default hopeTheme({
     intro: "/intro.html",
     timeline: "文章时间线",
     medias: {
-      Email: "mailto:info@example.com",
-      GitHub: "https://example.com",
+      Email: "mailto:reallylearning@163.com",
+      GitHub: "https://github.com/Reallylearning",
     },
   },
 
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
     },
   },
 
@@ -171,7 +171,7 @@ export default hopeTheme({
     },
 
     docsearch:({
-      appId: "4SXRDFM6W8",
+      appId: appId,
       apiKey: "15370601b356c60f5aa3922519404c0f",
       indexName: "sss",
   
