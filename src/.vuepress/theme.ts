@@ -7,6 +7,7 @@ import sidebar from "./sidebar.js";
 
 // 读取环境变量，本地开发没设置时使用默认占位
 const appId = process.env.DOC_APPID ?? "1111111111";
+const apiKey = process.env.DOC_APIKEY ?? "1111111111";
 
 export default hopeTheme({
   hostname: "https://reallylearning.github.io/",
@@ -172,7 +173,7 @@ export default hopeTheme({
 
     docsearch:({
       appId: appId,
-      apiKey: "15370601b356c60f5aa3922519404c0f",
+      apiKey: apiKey,
       indexName: "sss",
   
       locales: {

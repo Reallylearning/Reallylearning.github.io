@@ -39,6 +39,7 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
           DOC_APPID: ${{ secrets.DOC_APPID }}
+          DOC_APIKEY: ${{ secrets.DOC_APIKEY }}
         run: |-
           pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
