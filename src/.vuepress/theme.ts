@@ -174,7 +174,7 @@ export default hopeTheme({
     docsearch:({
       appId: appId,
       apiKey: apiKey,
-      indexName: "sss",
+      indexName: "blog",
   
       locales: {
         "/": {
