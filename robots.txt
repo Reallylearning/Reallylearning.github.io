@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://reallylearning.icu/sitemap.xml
+Sitemap: https://reallylearning.github.io/sitemap.xml
