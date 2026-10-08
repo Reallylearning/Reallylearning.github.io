@@ -11,4 +11,4 @@ src/draft/
 src/posts/english/
 src/posts/.obsidian/
 src/posts/draft/
-
+.env

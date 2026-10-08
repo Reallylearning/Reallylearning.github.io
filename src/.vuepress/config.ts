@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
+
 import obsidianCallouts from "markdown-it-obsidian-callouts";
 import path from 'node:path'
 import { autoFrontmatterPlugin, addShortPermalink,addCreateDate,addTitleByFilename } from '@vuepress/plugin-auto-frontmatter'
