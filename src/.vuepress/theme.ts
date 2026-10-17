@@ -175,9 +175,7 @@ export default hopeTheme({
     docsearch:({
       appId: appId,
       apiKey: apiKey,
-      indices: [
-        'blog',
-      ],
+      indices: ['blog'],
     }),
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
